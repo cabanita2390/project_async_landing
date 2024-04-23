@@ -28,7 +28,7 @@ console.log('Hola Mundo');
 
 const content = null || document.getElementById('content')
 
-const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCw05fUBPwmpu-ehXFMqfdMw&part=snippet%2Cid&order=date&maxResults=9';
+const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCCxmzh3f-wwRZ-bEdLb80Og&part=snippet%2Cid&order=date&maxResults=9';
 const options = {
 	method: 'GET',
 	headers: {
